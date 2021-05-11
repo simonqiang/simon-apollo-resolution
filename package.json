@@ -17,7 +17,7 @@
     "graphql-tag": "^2.6.1",
     "graphql-tools": "^2.15.0",
     "loadash": "^1.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^1.0.0",
     "react": "^16.2.0",
     "react-apollo": "^2.0.4",
