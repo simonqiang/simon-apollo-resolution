@@ -11,7 +11,7 @@
     "babel-runtime": "^6.26.0",
     "bcrypt": "^3.0.7",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "graphql": "^0.11.00",
     "graphql-server-express": "^1.3.2",
     "graphql-tag": "^2.6.1",
